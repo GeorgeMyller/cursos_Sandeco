@@ -13,21 +13,6 @@ O notebook `Atividades_livro_Python.ipynb` inclui uma série de exercícios e ex
 - **Funções e Módulos**: Definição de funções, importação de módulos e reutilização de código.
 - **Manipulação de Dados**: Leitura, escrita e processamento de dados utilizando bibliotecas como Pandas e NumPy.
 
-## Como Usar
-
-1. Clone este repositório para o seu ambiente local utilizando o comando:
-    ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
-    ```
-2. Navegue até o diretório do projeto:
-    ```bash
-    cd seu-repositorio
-    ```
-3. Abra o arquivo `Atividades_livro_Python.ipynb` utilizando o Jupyter Notebook ou JupyterLab:
-    ```bash
-    jupyter notebook Atividades_livro_Python.ipynb
-    ```
-4. Siga as instruções fornecidas no notebook e execute as células de código conforme necessário para completar os exercícios e exemplos.
 
 ## Requisitos
 
@@ -59,21 +44,6 @@ The notebook `Atividades_livro_Python.ipynb` includes a series of exercises and 
 - **Data Manipulation**: Reading, writing, and processing data using libraries like Pandas and NumPy.
 
 
-## How to Use
-
-1. Clone this repository to your local environment using the command:
-    ```bash
-    git clone https://github.com/your-username/your-repository.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd your-repository
-    ```
-3. Open the file `Atividades_livro_Python.ipynb` using Jupyter Notebook or JupyterLab:
-    ```bash
-    jupyter notebook Atividades_livro_Python.ipynb
-    ```
-4. Follow the instructions provided in the notebook and execute the code cells as needed to complete the exercises and examples.
 
 ## Requirements
 
